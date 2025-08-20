@@ -28,4 +28,5 @@ As atividades foram implementadas nas linguagens **Python** e **Java**, com foco
     ├── Atividade2.java
     └── ...
 
+```
 📚 Este repositório tem fins educacionais e serve como material de estudo e prática dos conceitos de Programação Orientada a Objetos em Python e Java.
